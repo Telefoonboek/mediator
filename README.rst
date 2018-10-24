@@ -2,6 +2,9 @@
 Mediator
 ========
 
+Wordt gebruikt in de het biedscript adwords-tb-api
+
+
 A library implements the Mediator pattern to make your code extensible.
 
 Inspired by `symfony/event-dispatcher <https://github.com/symfony/event-dispatcher>`_ component.
